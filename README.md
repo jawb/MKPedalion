@@ -28,9 +28,11 @@ Not defining alphas now, I'm not sure what layout to derivate now.
 ##Plate design
 
 I wish I could design the plate however I like and make it follow the shape of the keys in a curves like this:
+
 ![Dream plate](DreamPlate.png)
 
 But I know the case will be very difficult to build, since it needs to be 3D printed and such and I have zero access to everything so let's go for the simplest form.
+
 ![Real life plate](RealLifePlate.png)
 
 ##Prototyping
