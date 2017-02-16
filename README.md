@@ -38,3 +38,10 @@ But I know the case will be very difficult to build, since it needs to be 3D pri
 ![Real life plate](RealLifePlate.png)
 
 ##Prototyping
+
+####16 Feb 2017
+I decided to add the key on top for pinky, I will not use it for alphas. On the left it will be ESC on the right it will be FN. In their places I will put L1, L2 for fallback when pedals aren't attached.
+
+I added the stagger a bit on pinky column and made the prototype in [www.keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)
+
+![design](keyboard-layout.png)
