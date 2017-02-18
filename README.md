@@ -45,3 +45,6 @@ I decided to add the key on top for pinky, I will not use it for alphas. On the 
 I added the stagger a bit on pinky column and made the prototype in [www.keyboard-layout-editor.com](http://www.keyboard-layout-editor.com)
 
 ![design](keyboard-layout.png)
+
+####18 Feb 2017
+I made a plate design, first part was done on [builder.swillkb.com](http://builder.swillkb.com/), then exported the SVG and worked on paths and some screw holes manually editing SVG code with some Js helpers, I think it's good but will need validation from someone who has experience with plate design.
