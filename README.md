@@ -61,3 +61,6 @@ I want to make the Teensy removable so will add a USB mini to DIP converter with
 Pedals are as simple as switches so I will have 4 wires coming from the 2 pedals so looks like a perfect fit for USB mini to make them removable, for matrix fit they will have the same coordinates as L1/L2 so when you press pedal i or press Li key to the controller that's the same thing.
 
 Now that I have the full idea and plate design, it's time to share this with the community and get some feedback to fix any mistakes then start sourcing parts.
+
+####24 Feb 2017
+I'm sending the plate to be laser cut on brushed stainless steel, also started selecting parts and negotiating with Taobao agents.
