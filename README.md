@@ -25,6 +25,7 @@ The default layout contains the alpha keys with TAB and backspace on the sides, 
 **FN** is a special key used to change settings not like usual FN that gives function and media keys.
 Not defining alphas now, I'm not sure what layout to derivate now.
 
+
 ![Layout](Layout.jpg)
 
 ##Plate design
@@ -64,3 +65,9 @@ Now that I have the full idea and plate design, it's time to share this with the
 
 ####24 Feb 2017
 I'm sending the plate to be laser cut on brushed stainless steel, also started selecting parts and negotiating with Taobao agents.
+
+
+####26 Feb 2017
+I made a case from cardboard to test the design, it's comfortable but will need a wrist rest, I will also angle the thumb cluster for better reach. I tested height and feels like 40mm on the high side and 25mm on low side are offering good tilt with enough space to put the vertical key. So here are some pictures of my ghetto case, I will get to 3d model the case.
+
+![cardboard case](cardboard-case.jpg)
