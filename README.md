@@ -71,3 +71,17 @@ I'm sending the plate to be laser cut on brushed stainless steel, also started s
 I made a case from cardboard to test the design, it's comfortable but will need a wrist rest, I will also angle the thumb cluster for better reach. I tested height and feels like 40mm on the high side and 25mm on low side are offering good tilt with enough space to put the vertical key. So here are some pictures of my ghetto case, I will get to 3d model the case.
 
 ![cardboard case](cardboard-case.jpg)
+
+
+####24 April 2017
+Finally after a long wait the plates are here, that's what you get for sourcing things in China. The cut isn't bad at all, there are some holes with some play especially holes for Costar stabilizers, but most are good and tight enough. There are some scratches here and there but not very noticeable with the brushed stainless steel, overall I'm happy with the quality/price ratio (37,94 USD shipped).
+
+![laser cut plates](laser-cut-plates.jpg)
+
+Here is how it looks with switches and stabilizers.
+
+![laser cut plates with switches and stabilizers](lcp-with-switches.jpg)
+
+Time to make a better cardboard case to test the feel and find the best angle for thumb cluster, for now here is how it looks with the old ghetto case.
+
+![laser cut plates on cardboard case](lcp-ghetto.jpg)
