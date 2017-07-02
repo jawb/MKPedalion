@@ -85,3 +85,15 @@ Here is how it looks with switches and stabilizers.
 Time to make a better cardboard case to test the feel and find the best angle for thumb cluster, for now here is how it looks with the old ghetto case.
 
 ![laser cut plates on cardboard case](lcp-ghetto.jpg)
+
+
+###1 July 2017
+It's been a while, I was working on the project from time to time:
+
+- I designed the case (which is obsolete now), files are in Case folder
+- I ordered parts from Taobao through an agent, parts are on the way with a sample of Zealios to test which will work for me
+- I'm changing the case design, the case is too high and hard to use with a mouse, the height is a result of the vertical thumb key, I think it's not worth it so I'm developing a new concept for the case
+
+![new case concept](new-case-concept.jpg)
+
+This new design is using the space/shift key in a tilted angle which is a great position for the thumb. I think I'll make that key 1.5u instead of 2u to save some space and make the thumb cluster closer, also be able to use Ergodox keysets since currently no keyset has 6 R3 2u keys and 2 1.5u keys.
