@@ -97,3 +97,11 @@ It's been a while, I was working on the project from time to time:
 ![new case concept](new-case-concept.jpg)
 
 This new design is using the space/shift key in a tilted angle which is a great position for the thumb. I think I'll make that key 1.5u instead of 2u to save some space and make the thumb cluster closer, also be able to use Ergodox keysets since currently no keyset has 6 R3 2u keys and 2 1.5u keys.
+
+
+###9 July 2017
+I made the decision, I'm sticking with the 3 2u thumb keys, 2u stabilized is so good to discard, I couldn't do it. For compatibility with kits there are some Ergodox keysets who offer 3 2u per half like the SA Carbon, hopefully more kits can do that (Oblivion SA I wish you did). The layout has changed too, I'm placing the 2 keys in place of the single one and have the single one horizontally below them. This design is more compact and offers minimal travel for the thumb.
+
+I was learning OpenSCAD as I was trying to make the case, and the math is getting complicated with the tilted plates, too much trigonometry for my taste so I switched to guessing and I hated it. So I'm switching to Fusion 360 to use projections and alignments, also doing things in UI is easier than code, though sometimes I miss the control of code. I never used Fusion 360 before or any modeling tool, so I was just trying to learn the minimum as I go and avoided any complicated stuff like constraint which I know are important, hopefully someone who's knowledgeable can fix my mistakes.
+
+I still need to work on screw holes and support for the plates, add some holes for wires and plan the PCB and cutouts. The shipment is at customs, hopefully I get it by the end of next week to measure things and finalize the design to send the case to be 3d printed. I will also try Zealios and make my decision on which weight or which switches to order if I didn't like Zealios.
