@@ -105,3 +105,6 @@ I made the decision, I'm sticking with the 3 2u thumb keys, 2u stabilized is so 
 I was learning OpenSCAD as I was trying to make the case, and the math is getting complicated with the tilted plates, too much trigonometry for my taste so I switched to guessing and I hated it. So I'm switching to Fusion 360 to use projections and alignments, also doing things in UI is easier than code, though sometimes I miss the control of code. I never used Fusion 360 before or any modeling tool, so I was just trying to learn the minimum as I go and avoided any complicated stuff like constraint which I know are important, hopefully someone who's knowledgeable can fix my mistakes.
 
 I still need to work on screw holes and support for the plates, add some holes for wires and plan the PCB and cutouts. The shipment is at customs, hopefully I get it by the end of next week to measure things and finalize the design to send the case to be 3d printed. I will also try Zealios and make my decision on which weight or which switches to order if I didn't like Zealios.
+
+###16 July 2017
+I added plates support and screw holes, design files updated, parts are still in customs UGH! on the bright side Oblotzky said he will add a 3rd 2u to Ergodox kit, Awesome 👍
