@@ -108,3 +108,12 @@ I still need to work on screw holes and support for the plates, add some holes f
 
 ###16 July 2017
 I added plates support and screw holes, design files updated, parts are still in customs UGH! on the bright side Oblotzky said he will add a 3rd 2u to Ergodox kit, Awesome 👍
+
+###13 August 2017
+Shipment was received, pedals are great but are very loud, MX blues and greens sound is ant whispers compared to these sp I will need to mod them later. The hype about Zealios is real, I liked them very much, they feel like Jailhoused lubed blues but without the short travel, I'm ordering a bunch for MKPedalion. I'm going to use 65g for central area and 62g on sides and bottom row for lighter switches in hard to reach places, for thumb cluser I'm going to use 78g for spaces and 67g for the others. Now that I'm going with those clear housings the natural thing is to think about RGB LEDs :) .. soon!
+
+Mistakes were made, I ordered DC3 16p for the matrix, but the socket is high and will add unecessary height to the keyboard, I ordered the 90degree version .. the wait chapter II. I'm not going to use the 2.54mm sockets for the same reasons, I wanted a removable Teensy and HDMI PCBs but for the same height issue I'm going to solder it flat the the PCB. I can't finish the case design until I finish the PCB so 3D printing the case has to wait. On another subject, Oblivion will not have 3 2u per half, after further dicussions with Oblotzky the addition isn't worth it for everyone so I need to get the 2u from some kit or hopefully through SP if they have blanks in GQM, GD or WFK after Oblivion production.
+
+I noticed the lack of pictures in the recent updates, here is the latest version of the case:
+
+![new case concept2](new-case-concept2.png)
