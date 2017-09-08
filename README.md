@@ -110,10 +110,21 @@ I still need to work on screw holes and support for the plates, add some holes f
 I added plates support and screw holes, design files updated, parts are still in customs UGH! on the bright side Oblotzky said he will add a 3rd 2u to Ergodox kit, Awesome 👍
 
 #### 13 August 2017
-Shipment was received, pedals are great but are very loud, MX blues and greens sound is ant whispers compared to these sp I will need to mod them later. The hype about Zealios is real, I liked them very much, they feel like Jailhoused lubed blues but without the short travel, I'm ordering a bunch for MKPedalion. I'm going to use 65g for central area and 62g on sides and bottom row for lighter switches in hard to reach places, for thumb cluser I'm going to use 78g for spaces and 67g for the others. Now that I'm going with those clear housings the natural thing is to think about RGB LEDs :) .. soon!
+Shipment was received, pedals are great but are very loud, MX blues and greens sound is ant whispers compared to these so I will need to mod them later. The hype about Zealios is real, I liked them very much, they feel like Jailhoused lubed blues but without the short travel, I'm ordering a bunch for MKPedalion. I'm going to use 65g for central area and 62g on sides and bottom row for lighter switches in hard to reach places, for thumb cluster I'm going to use 78g for spaces and 67g for the others. Now that I'm going with those clear housings the natural thing is to think about RGB LEDs :) .. soon!
 
-Mistakes were made, I ordered DC3 16p for the matrix, but the socket is high and will add unecessary height to the keyboard, I ordered the 90degree version .. the wait chapter II. I'm not going to use the 2.54mm sockets for the same reasons, I wanted a removable Teensy and HDMI PCBs but for the same height issue I'm going to solder it flat the the PCB. I can't finish the case design until I finish the PCB so 3D printing the case has to wait. On another subject, Oblivion will not have 3 2u per half, after further dicussions with Oblotzky the addition isn't worth it for everyone so I need to get the 2u from some kit or hopefully through SP if they have blanks in GQM, GD or WFK after Oblivion production.
+Mistakes were made, I ordered DC3 16p for the matrix, but the socket is high and will add unnecessary height to the keyboard, I ordered the 90degree version .. the wait chapter II. I'm not going to use the 2.54mm sockets for the same reasons, I wanted a removable Teensy and HDMI PCBs but for the same height issue I'm going to solder it flat the the PCB. I can't finish the case design until I finish the PCB so 3D printing the case has to wait. On another subject, Oblivion will not have 3 2u per half, after further discussions with Oblotzky the addition isn't worth it for everyone so I need to get the 2u from some kit or hopefully through SP if they have blanks in GQM, GD or WFK after Oblivion production.
 
 I noticed the lack of pictures in the recent updates, here is the latest version of the case:
 
 ![new case concept2](new-case-concept2.png)
+
+
+#### 8 September 2017
+
+Finally everything is here, the 90 degree DC3 16P port is very low profile and fits great with the rest of the components, I needed to add a 5mm extra height to the case but everything should fit fine in it. I finished the case design and I'm sending it to be 3D printed soon. I added PCB support and holes for wires to go from thumb cluster to PCB area, I also added the HDMI D hole.
+
+The rest of Zealios are here, this is a picture of how I will be using the different weights as explained previously:
+
+![zealios](zealios.png)
+
+On another subject, Oblivion drop is live now, I'm going with Hagoromo alpha, Colevrak and 2 Assembly kits and the arrows. I'm abandoning the Ergodox kit, 78$ for the 5 2u keys isn't a good idea and I still need another 2u which is available for 20$ in the GQM Spacebars or for 26$ in Assembly. Since Assembly reached the lowest drop point, it's the best value for the money. If the price continued to drop, I'll get Git modifiers for that gorgeous Git logo and the 1.5u TAB, also the 2.25u keys might work well for horizontal thumb key. The set will be shipped hopefully on June 2018 so I'll have to use my hideous CM Trigger caps for now.
