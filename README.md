@@ -125,6 +125,6 @@ Finally everything is here, the 90 degree DC3 16P port is very low profile and f
 
 The rest of Zealios are here, this is a picture of how I will be using the different weights as explained previously:
 
-![zealios](zealios.png)
+![zealios](zealios.jpg)
 
 On another subject, Oblivion drop is live now, I'm going with Hagoromo alpha, Colevrak and 2 Assembly kits and the arrows. I'm abandoning the Ergodox kit, 78$ for the 5 2u keys isn't a good idea and I still need another 2u which is available for 20$ in the GQM Spacebars or for 26$ in Assembly. Since Assembly reached the lowest drop point, it's the best value for the money. If the price continued to drop, I'll get Git modifiers for that gorgeous Git logo and the 1.5u TAB, also the 2.25u keys might work well for horizontal thumb key. The set will be shipped hopefully on June 2018 so I'll have to use my hideous CM Trigger caps for now.
